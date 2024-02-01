@@ -1,9 +1,9 @@
 .choiceBtn{
     line-height: 80px;
-    width: 100px;
+    width: 80px;
     border-color: azure;
     border-radius: 10px;
-    font-size: large;
+    font-size: medium;
     color: azure;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:cadetblue;
