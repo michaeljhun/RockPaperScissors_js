@@ -1,6 +1,6 @@
 .choiceBtn{
     line-height: 80px;
-    width: 110px;
+    width: 100px;
     border-color: azure;
     border-radius: 10px;
     font-size: large;
@@ -10,7 +10,7 @@
 }
 #chooseWise{
     padding-right: 15px;
-    padding-bottom: 25px;
+    padding-bottom: 20px;
     float:inline-start;
 }
 #gameDiv{
@@ -18,6 +18,7 @@
     border: 3px solid;
     border-radius: 15px;
     padding: 10px;
+    padding-bottom: 0px;
     background-color: antiquewhite;
     text-align: center;
     width:fit-content;
@@ -27,18 +28,18 @@
     color: blue;
     width:170px;
     border: 1px ;
-    text-align: right;
+    text-align: left;
 }
 #computerText{
     color: red;
     width:170px;
     border: 1px ;
-    text-align: right;
+    text-align: left;
 }
 
 #resultText{
     border: 1px solid;
     text-align: center;
-    height: 55px;
+    height: 50px;
 }
 
