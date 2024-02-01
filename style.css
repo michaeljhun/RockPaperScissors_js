@@ -1,0 +1,44 @@
+.choiceBtn{
+    line-height: 80px;
+    width: 110px;
+    border-color: azure;
+    border-radius: 10px;
+    font-size: large;
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:cadetblue;
+}
+#chooseWise{
+    padding-right: 15px;
+    padding-bottom: 25px;
+    float:inline-start;
+}
+#gameDiv{
+    font-family:Arial, Helvetica, sans-serif;
+    border: 3px solid;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    width:fit-content;
+}
+
+#playerText{
+    color: blue;
+    width:170px;
+    border: 1px ;
+    text-align: right;
+}
+#computerText{
+    color: red;
+    width:170px;
+    border: 1px ;
+    text-align: right;
+}
+
+#resultText{
+    border: 1px solid;
+    text-align: center;
+    height: 55px;
+}
+
